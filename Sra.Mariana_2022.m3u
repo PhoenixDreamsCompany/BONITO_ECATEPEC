@@ -244,44 +244,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-country="MX-AGU" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iVF17fh.png" group-title="Undefined",Televisa Aguascalientes (720p)  
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg/live
-#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-country="MX-CHH" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CAuAu0Z.png" group-title="Undefined",Televisa Chihuahua (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
-#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-country="MX-CHH" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4vEFJxf.png" group-title="Undefined",Televisa Ciudad Juarez (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
-#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-country="MX-TAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35fsRTS.jpg" group-title="Undefined",Televisa Del Golfo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ08tNTPiBn44c975S81ftg/live
-#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-country="MX-CMX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyZCypH.png" group-title="Undefined",Televisa Estado (1080p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
-#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-country="MX-JAL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp4B0BM.jpg" group-title="Undefined",Televisa Guadalajara (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-country="MX-GRO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lOAnjFs.png" group-title="Undefined",Televisa Guerrero  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
-#EXTINF:-1 tvg-id="TelevisaLaguna.mx" tvg-country="MX-COA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L4GDHQm.png" group-title="Undefined",Televisa Laguna (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
-#EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-country="MX-BCN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="Undefined",Televisa Mexicali (1080p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
-#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-country="MX-NLE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ierlYM1.jpg" group-title="Undefined",Televisa Monterrey (1080p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-#EXTINF:-1 tvg-id="TelevisaMorelos.mx" tvg-country="MX-MOR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QiJoBVs.png" group-title="Undefined",Televisa Morelos
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcC9ykApQrgl4UxbKg2U4zw/live
-#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" tvg-country="MX-MEX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KVc1hqI.png" group-title="News",Televisa News Mexico (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
-#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-country="MX-TAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rHCKwYB.jpg" group-title="Undefined",Televisa Noreste  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
-#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fEtvxpz.jpg" group-title="Undefined",Televisa Piedras Negras (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA/live
-#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-country="MX-QUE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/47c1AIS.png" group-title="Undefined",Televisa Queretaro
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9QNz6VS3gGz55dzxAQtgtA/live
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Televisa San Luis Potosí (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
-#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-country="MX-SIN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="Undefined",Televisa Sinaloa
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ/live
-#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-country="MX-SON" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3FjHKAC.jpg" group-title="Undefined",Televisa Sonora (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live
-#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-country="MX-VER" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4hPbfbg.png" group-title="Undefined",Televisa Veracruz (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
-#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-country="MX-ZAC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vsbl0u6.png" group-title="Undefined",Televisa Zacatecas (720p)  
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Tlaxcala Televisión (360p)  
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (720p)  
@@ -316,322 +278,139 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 
 
-***Black Ghost***
+***Black Ghost Lista 15***
 
-
-
-#EXTINF:-1 group-title="Lista 22", AZTECA UNO
-http://bgapp.live/play/futvall-707.php?id=aztecauno&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", CANAL 2
-http://bgapp.live/play/futvall-707.php?id=eldos&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", CANAL 5
-http://bgapp.live/play/futvall-707.php?id=elcinco&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZTECA 7
-http://bgapp.live/play/futvall-707.php?id=azteca7&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZTECA 7 HD
-http://bgapp.live/play/futvall-707.php?id=azteca7hd&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", NUEVE
-http://bgapp.live/play/futvall-707.php?id=elnueve&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", IMAGEN TV
-http://bgapp.live/play/futvall-707.php?id=imagentv&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR ACTION
-http://bgapp.live/play/futvall-707.php?id=staraction&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", SPACE
-http://bgapp.live/play/futvall-707.php?id=space&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", ADRENALINA
-http://bgapp.live/play/futvall-707.php?id=adrenalina&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", AFIZZIONADOS
-http://bgapp.live/play/futvall-707.php?id=afizzionados&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", AyM Sports
-http://bgapp.live/play/futvall-707.php?id=aymsports&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", BASKET AMERICAS
-http://bgapp.live/play/futvall-707.php?id=basket&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", BEIN SPORTS Ñ
-http://bgapp.live/play/futvall-707.php?id=beines&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", BEIN US HD
-http://bgapp.live/play/futvall-707.php?id=beinhd&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", DIRECTV SPORTS
-http://bgapp.live/play/futvall-707.php?id=directv&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", DIRECTV 2
-http://bgapp.live/play/futvall-707.php?id=directv2&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", CLARO SPORTS
-http://bgapp.live/play/futvall-707.php?id=clarosports&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", ESPN Deportes
-http://bgapp.live/play/futvall-707.php?id=espndep&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", ESPN 1
-http://bgapp.live/play/futvall-707.php?id=espn1-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", ESPN 2
-http://bgapp.live/play/futvall-707.php?id=espn2-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", ESPN 3
-http://bgapp.live/play/futvall-707.php?id=espn3-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", ESPN EXTRA
-http://bgapp.live/play/futvall-707.php?id=espnextra-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX SPORTS 1
-http://bgapp.live/play/futvall-707.php?id=foxsports1-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX SPORTS 2
-http://bgapp.live/play/futvall-707.php?id=foxsports2-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX SPORTS 3
-http://bgapp.live/play/futvall-707.php?id=foxsports3-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX SPORTS PREMIUM
-http://bgapp.live/play/futvall-707.php?id=foxsportsp&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", GALAVISION
-http://bgapp.live/play/futvall-707.php?id=galavision&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOL PERU
-http://bgapp.live/play/futvall-707.php?id=golperu&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOLTV
-http://bgapp.live/play/futvall-707.php?id=goltv&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOLF CHANNEL
-http://bgapp.live/play/futvall-707.php?id=golf&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", HAVOC
-http://bgapp.live/play/futvall-707.php?id=havoc&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", NFL NETWORK
-http://bgapp.live/play/futvall-707.php?id=nfl&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", LAS Deportes
-http://bgapp.live/play/futvall-707.php?id=las&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", LALIGA
-http://bgapp.live/play/futvall-707.php?id=laliga&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", M LALIGA
-http://bgapp.live/play/futvall-707.php?id=mlaliga&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", M LIGA DE CAMPEONES
-http://bgapp.live/play/futvall-707.php?id=mligadec&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", TELEMUNDO
-http://bgapp.live/play/futvall-707.php?id=telemundo&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", TUDN
-http://bgapp.live/play/futvall-707.php?id=tudn-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", TUDN US
-http://bgapp.live/play/futvall-707.php?id=tudn-us&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", TVC Deportes
-http://bgapp.live/play/futvall-707.php?id=tvcdep-mx&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", TyC SPORTS
-http://bgapp.live/play/futvall-707.php?id=tycsports&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", UNIMAS
-http://bgapp.live/play/futvall-707.php?id=unimas&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", UNIVERSO
-http://bgapp.live/play/futvall-707.php?id=universo&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", NBC SPORTS NET
-http://bgapp.live/play/futvall-707.php?id=nbcsn&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", WIN SPORTS
-http://bgapp.live/play/futvall-707.php?id=winsports&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", WIN SPORTS PLUS
-http://bgapp.live/play/futvall-707.php?id=winplus&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", FIGHT TIME
-http://bgapp.live/play/futvall-707.php?id=fight&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", UFC
-http://bgapp.live/play/futvall-707.php?id=ufc&token=blaccghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", WWE
-http://bgapp.live/play/futvall-707.php?id=wwe&token=blaccghost&f=.m3u8
-
-
-
-
-
-
-
-
-http://bgapp.live/play/futvall-707.php?id=tlc&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MULTIPREMIER
-http://bgapp.live/play/futvall-707.php?id=mp&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOLDEN
-http://bgapp.live/play/futvall-707.php?id=golden&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOLDEN PLUS
-http://bgapp.live/play/futvall-707.php?id=goldenplus&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOLDEN EDGE
-http://bgapp.live/play/futvall-707.php?id=goldenedge&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", GOLDEN PREMIER
-http://bgapp.live/play/futvall-707.php?id=goldenp&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR CH
-http://bgapp.live/play/futvall-707.php?id=starch&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR ACTION
-http://bgapp.live/play/futvall-707.php?id=staraction&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR CINEMA
-http://bgapp.live/play/futvall-707.php?id=starcinema&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR CLASSICS
-http://bgapp.live/play/futvall-707.php?id=starclassics&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR COMEDY
-http://bgapp.live/play/futvall-707.php?id=starcomedy&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR FUN
-http://bgapp.live/play/futvall-707.php?id=starfun&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR HITS
-http://bgapp.live/play/futvall-707.php?id=starhits&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR LIFE
-http://bgapp.live/play/futvall-707.php?id=starlife&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR SERIES
-http://bgapp.live/play/futvall-707.php?id=starseries&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", WOW TV
-http://bgapp.live/play/futvall-707.php?id=wow&token=blaccghost&dos=.m3u8
-
-
-#EXTINF:-1 group-title="Lista 22", A MAS
-http://bgapp.live/play/futvall-707.php?id=amas&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZTECA UNO
-http://bgapp.live/play/futvall-707.php?id=aztecauno&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", EL DOS
-http://bgapp.live/play/futvall-707.php?id=eldos&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", CANAL 5
-http://bgapp.live/play/futvall-707.php?id=elcinco&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZTECA 7
-http://bgapp.live/play/futvall-707.php?id=azteca7&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", EL NUEVE
-http://bgapp.live/play/futvall-707.php?id=elnueve&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", IMAGEN TV
-http://bgapp.live/play/futvall-707.php?id=imagentv&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MULTIMEDIOS
-http://bgapp.live/play/futvall-707.php?id=multimedios&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", ONCE TV
-http://bgapp.live/play/futvall-707.php?id=oncetv&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", ONCE TV HD
-http://bgapp.live/play/futvall-707.php?id=oncetvhd&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", DISTRITO COMEDIA
-http://bgapp.live/play/futvall-707.php?id=distrito&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", UNICABLE
-http://bgapp.live/play/futvall-707.php?id=unicable&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MVSTV
-http://bgapp.live/play/futvall-707.php?id=mvstv&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", ANTENA 3 Int
-http://bgapp.live/play/futvall-707.php?id=antena3int&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", A3 SERIES
-http://bgapp.live/play/futvall-707.php?id=a3series&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR TVE
-http://bgapp.live/play/futvall-707.php?id=startve&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TVE
-http://bgapp.live/play/futvall-707.php?id=tve&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", GALAVISION
-http://bgapp.live/play/futvall-707.php?id=galavision&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", GLITZ
-http://bgapp.live/play/futvall-707.php?id=glitz&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TELEMUNDO
-http://bgapp.live/play/futvall-707.php?id=telemundo&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TELEMUNDO Internacional
-http://bgapp.live/play/futvall-707.php?id=telemundoint&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", UNIMAS
-http://bgapp.live/play/futvall-707.php?id=unimas&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZ CORAZON
-http://bgapp.live/play/futvall-707.php?id=azcorazon&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AandE
-http://bgapp.live/play/futvall-707.php?id=ae&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AXN
-http://bgapp.live/play/futvall-707.php?id=axn&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", COMEDY CENTRAL
-http://bgapp.live/play/futvall-707.php?id=comedy&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Entertaiment
-http://bgapp.live/play/futvall-707.php?id=e&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX Channel
-http://bgapp.live/play/futvall-707.php?id=starch&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX LIFE
-http://bgapp.live/play/futvall-707.php?id=starlife&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FX
-http://bgapp.live/play/futvall-707.php?id=fx&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", INVESTIGATION Discovery
-http://bgapp.live/play/futvall-707.php?id=id&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", PASIONES
-http://bgapp.live/play/futvall-707.php?id=pasiones&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", RCN Novelas
-http://bgapp.live/play/futvall-707.php?id=rcntln&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", SONY Channel
-http://bgapp.live/play/futvall-707.php?id=sony&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TLNovelas
-http://bgapp.live/play/futvall-707.php?id=tlnovelas&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Tele Novelas
-http://bgapp.live/play/futvall-707.php?id=univtln&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TBS
-http://bgapp.live/play/futvall-707.php?id=tbs&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TNT Series
-http://bgapp.live/play/futvall-707.php?id=tntseries&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TRU TV
-http://bgapp.live/play/futvall-707.php?id=trutv&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", UNIVERSAL TV
-http://bgapp.live/play/futvall-707.php?id=universal&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", WARNER TV
-http://bgapp.live/play/futvall-707.php?id=warner&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZ CINEMA
-http://bgapp.live/play/futvall-707.php?id=azcinema&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AMC
-http://bgapp.live/play/futvall-707.php?id=amc&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", CINECANAL
-http://bgapp.live/play/futvall-707.php?id=cinecanal&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", CINEMAX
-http://bgapp.live/play/futvall-707.php?id=cinemax&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", DE PELICULA
-http://bgapp.live/play/futvall-707.php?id=depelicula&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", DE PELICULA PLUS
-http://bgapp.live/play/futvall-707.php?id=depeliculaplus&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", DHE
-http://bgapp.live/play/futvall-707.php?id=dhe&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", EUROPA
-http://bgapp.live/play/futvall-707.php?id=europa&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FILM &amp; ARTS
-http://bgapp.live/play/futvall-707.php?id=filmarts&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FXM
-http://bgapp.live/play/futvall-707.php?id=fxm&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", ISAT
-http://bgapp.live/play/futvall-707.php?id=isat&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MULTICINEMA
-http://bgapp.live/play/futvall-707.php?id=mc&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MULTIPREMIER
-http://bgapp.live/play/futvall-707.php?id=mp&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MORBIDO
-http://bgapp.live/play/futvall-707.php?id=morbido&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", PARAMOUNT Channel
-http://bgapp.live/play/futvall-707.php?id=paramount&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", SPACE
-http://bgapp.live/play/futvall-707.php?id=space&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STUDIO Universal
-http://bgapp.live/play/futvall-707.php?id=studiouniversal&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", SYFY
-http://bgapp.live/play/futvall-707.php?id=syfy&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TCM
-http://bgapp.live/play/futvall-707.php?id=tcm&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TNT
-http://bgapp.live/play/futvall-707.php?id=tnt&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", AZ MUNDO
-http://bgapp.live/play/futvall-707.php?id=azmundo&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", ANIMAL Planet
-http://bgapp.live/play/futvall-707.php?id=animalp&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", DISCOVERY Channel
-http://bgapp.live/play/futvall-707.php?id=discoverych&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Discovery SCIENCE
-http://bgapp.live/play/futvall-707.php?id=dciencia&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Discovery CIVILIZATION
-http://bgapp.live/play/futvall-707.php?id=dcivil&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Discovery THEATER
-http://bgapp.live/play/futvall-707.php?id=dtheater&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Discovery TURBO
-http://bgapp.live/play/futvall-707.php?id=dturbo&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Discovery WORLD
-http://bgapp.live/play/futvall-707.php?id=dworld&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOOD Network
-http://bgapp.live/play/futvall-707.php?id=food&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", EL GOURMET
-http://bgapp.live/play/futvall-707.php?id=gourmet&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", LIFE TIME
-http://bgapp.live/play/futvall-707.php?id=lifetime&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", HISTORY Channel
-http://bgapp.live/play/futvall-707.php?id=history&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Histrory 2
-http://bgapp.live/play/futvall-707.php?id=h2&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Home &amp; Health
-http://bgapp.live/play/futvall-707.php?id=hh&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", HOLA TV
-http://bgapp.live/play/futvall-707.php?id=holatv&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", MAS CHIC
-http://bgapp.live/play/futvall-707.php?id=maschic&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", NATGEO
-http://bgapp.live/play/futvall-707.php?id=natgeo&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Natgeo WILD
-http://bgapp.live/play/futvall-707.php?id=natgeowild&token=blaccghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", TLC Discovery
-http://bgapp.live/play/futvall-707.php?id=tlc&token=blaccghost&dos=.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Phoenix`DreamsTV", AE Mundo
+http://200.24.132.99:8000/play/a025
+#EXTINF:-1 group-title="Phoenix`DreamsTV", AXN
+http://200.24.132.99:8000/play/a02p
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Animal Planet
+http://200.24.132.99:8000/play/a01y
+#EXTINF:-1 group-title="Phoenix`DreamsTV", CNN Espanol
+http://200.24.132.99:8000/play/a01q
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Canal Estrellas
+http://200.24.132.99:8000/play/a027
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Cartoon Network
+http://200.24.132.99:8000/play/a01m
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Cinecanal
+http://200.24.132.99:8000/play/a01f
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Cinemax
+http://200.24.132.99:8000/play/a02n
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Discovery Channel
+http://200.24.132.99:8000/play/a01x
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Discovery Kids
+http://200.24.132.99:8000/play/a01s
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Discovery Turbo
+http://200.24.132.99:8000/play/a02u
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Disney Channel
+http://200.24.132.99:8000/play/a01w
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Disney Jr
+http://200.24.132.99:8000/play/a01u
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Disney XD
+http://200.24.132.99:8000/play/a01c
+#EXTINF:-1 group-title="Phoenix`DreamsTV", E Entertainment
+http://200.24.132.99:8000/play/a020
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ECTV HD
+http://200.24.132.99:8000/play/a00f
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ECTV SD
+http://200.24.132.99:8000/play/a00j
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ESPN
+http://200.24.132.99:8000/play/a022
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ESPN 2
+http://200.24.132.99:8000/play/a01v
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ESPN 2 Latin
+http://200.24.132.99:8000/play/a021
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ESPN 3
+http://200.24.132.99:8000/play/a02w
+#EXTINF:-1 group-title="Phoenix`DreamsTV", ESPN CO
+http://200.24.132.99:8000/play/a02m
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Ecuador TV
+http://200.24.132.99:8000/play/a02g
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Ecuavisa
+http://200.24.132.99:8000/play/a02k
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Ecuavisa HD
+http://200.24.132.99:8000/play/a012
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Ecuavisa SD
+http://200.24.132.99:8000/play/a013
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Enlace
+http://200.24.132.99:8000/play/a01o
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Esne TV
+http://200.24.132.99:8000/play/a02v
+#EXTINF:-1 group-title="Phoenix`DreamsTV", FX
+http://200.24.132.99:8000/play/a02r
+#EXTINF:-1 group-title="Phoenix`DreamsTV", FXM
+http://200.24.132.99:8000/play/a01t
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Fox Sports 1
+http://200.24.132.99:8000/play/a02f
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Fox Sports 2
+http://200.24.132.99:8000/play/a028
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Fox Sports 3
+http://200.24.132.99:8000/play/a029
+#EXTINF:-1 group-title="Phoenix`DreamsTV", France 24
+http://200.24.132.99:8000/play/a02c
+#EXTINF:-1 group-title="Phoenix`DreamsTV", GOL TV
+http://200.24.132.99:8000/play/a023
+#EXTINF:-1 group-title="Phoenix`DreamsTV", GamaTV
+http://200.24.132.99:8000/play/a02h
+#EXTINF:-1 group-title="Phoenix`DreamsTV", History Channel
+http://200.24.132.99:8000/play/a01e
+#EXTINF:-1 group-title="Phoenix`DreamsTV", HomeandHealth
+http://200.24.132.99:8000/play/a02e
+#EXTINF:-1 group-title="Phoenix`DreamsTV", I-Sat
+http://200.24.132.99:8000/play/a01h
+#EXTINF:-1 group-title="Phoenix`DreamsTV", MTV
+http://200.24.132.99:8000/play/a01i
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Nat Geo
+http://200.24.132.99:8000/play/a01d
+#EXTINF:-1 group-title="Phoenix`DreamsTV", NatGeo Kids
+http://200.24.132.99:8000/play/a01l
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Nick Jr
+http://200.24.132.99:8000/play/a02t
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Nickelodeon
+http://200.24.132.99:8000/play/a01b
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Oromar  HD
+http://200.24.132.99:8000/play/a00c
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Oromar SD
+http://200.24.132.99:8000/play/a02x
+#EXTINF:-1 group-title="Phoenix`DreamsTV", RCN Novelas
+http://200.24.132.99:8000/play/a02b
+#EXTINF:-1 group-title="Phoenix`DreamsTV", RTS
+http://200.24.132.99:8000/play/a02s
+#EXTINF:-1 group-title="Phoenix`DreamsTV", RTS HD
+http://200.24.132.99:8000/play/a004
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Sony
+http://200.24.132.99:8000/play/a02o
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Space
+http://200.24.132.99:8000/play/a02q
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TBS
+http://200.24.132.99:8000/play/a02d
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TC HD
+http://200.24.132.99:8000/play/a008
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TC Television
+http://200.24.132.99:8000/play/a02j
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TCM
+http://200.24.132.99:8000/play/a01k
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TELEAMAZONAS HD
+http://200.24.132.99:8000/play/a006
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TNT
+http://200.24.132.99:8000/play/a01n
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TVE
+http://200.24.132.99:8000/play/a01p
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Tc Television SD
+http://200.24.132.99:8000/play/a00m
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Teleamazonas
+http://200.24.132.99:8000/play/a02l
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Teleamazonas SD
+http://200.24.132.99:8000/play/a00n
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Telemundo
+http://200.24.132.99:8000/play/a02a
+#EXTINF:-1 group-title="Phoenix`DreamsTV", TyC
+http://200.24.132.99:8000/play/a024
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Universal
+http://200.24.132.99:8000/play/a01g
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Warner
+http://200.24.132.99:8000/play/a01z
+#EXTINF:-1 group-title="Phoenix`DreamsTV", Zona Latina
+http://200.24.132.99:8000/play/a01j
 
 
